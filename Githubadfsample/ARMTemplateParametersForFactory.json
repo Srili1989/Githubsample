@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "Githubadfsample"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
