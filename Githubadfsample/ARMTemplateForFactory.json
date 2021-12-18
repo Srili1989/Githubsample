@@ -440,8 +440,8 @@
 				"typeProperties": {
 					"recurrence": {
 						"frequency": "Day",
-						"interval": 2,
-						"startTime": "2021-12-18T21:21:00Z",
+						"interval": 3,
+						"startTime": "2021-12-18T16:08:00Z",
 						"endTime": "2021-12-19T15:40:00Z",
 						"timeZone": "UTC",
 						"schedule": {}
