@@ -1,0 +1,25 @@
+{
+	"name": "Scheduletrigger",
+	"properties": {
+		"annotations": [],
+		"runtimeState": "Started",
+		"pipelines": [
+			{
+				"pipelineReference": {
+					"referenceName": "CopyPipeline_m3q",
+					"type": "PipelineReference"
+				}
+			}
+		],
+		"type": "ScheduleTrigger",
+		"typeProperties": {
+			"recurrence": {
+				"frequency": "Minute",
+				"interval": 15,
+				"startTime": "2021-12-18T21:21:00Z",
+				"endTime": "2021-12-19T15:40:00Z",
+				"timeZone": "UTC"
+			}
+		}
+	}
+}
