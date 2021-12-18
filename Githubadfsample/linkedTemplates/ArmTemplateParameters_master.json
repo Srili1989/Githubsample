@@ -5,7 +5,22 @@
 		"factoryName": {
 			"value": "Githubadfsample"
 		},
+		"AzureBloLs2_connectionString": {
+			"value": ""
+		},
 		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
+		"AzureBlobStorage2_connectionString": {
+			"value": ""
+		},
+		"AzureSqlDatabase1_connectionString": {
+			"value": ""
+		},
+		"AzureSqlDatabase2_connectionString": {
+			"value": ""
+		},
+		"AzureSqlLS1_connectionString": {
 			"value": ""
 		},
 		"containerUri": {
